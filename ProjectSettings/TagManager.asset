@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ground
+  - wall
+  - destroyable_ground
+  - enemy_ghost
+  - enemy_spike
+  - enemy
+  - bullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - ground
+  - wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 478460753
+    locked: 0
+  - name: ground
+    uniqueID: 1390978341
+    locked: 0
+  - name: player
+    uniqueID: 3924341471
+    locked: 0
+  - name: enemy
+    uniqueID: 1894597845
+    locked: 0
+  - name: live
+    uniqueID: 669311315
+    locked: 0
